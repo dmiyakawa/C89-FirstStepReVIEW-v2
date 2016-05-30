@@ -1,1 +1,4 @@
-specs: pdf
+specs:
+  - name: pdf
+    rule_name: pdf
+    review_version: 1.7.2
